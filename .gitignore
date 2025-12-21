@@ -3,6 +3,7 @@
 # ignore .vscode folder
 # also ignore to pull
 .vscode
+.mysql
 
 # dependencies
 /node_modules
